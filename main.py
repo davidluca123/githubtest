@@ -1,3 +1,3 @@
 for i in range(100):
-    print "***"
+    print ("***")
     print(i*2)
